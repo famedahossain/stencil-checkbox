@@ -1,0 +1,12 @@
+:host {
+  display: block;
+  --hover-color: #66e95b;
+}
+
+button {
+  border-style: solid;
+}
+
+.on {
+  background-color: #66e95b;
+}
